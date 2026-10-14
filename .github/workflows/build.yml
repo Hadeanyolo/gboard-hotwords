@@ -1,0 +1,46 @@
+name: Build Gboard dictionaries
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 2 * * 1'
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: gboard-latest
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Test selection and dictionary format
+        run: python -m unittest -v
+      - name: Build dictionaries from a pinned upstream snapshot
+        run: python convert.py
+      - name: Update latest release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: latest
+          name: Gboard 最新中文补词库 (自动更新)
+          body_path: dist/release-notes.md
+          overwrite_files: true
+          fail_on_unmatched_files: true
+          files: |
+            dist/gboard_hotwords.zip
+            dist/gboard_hotwords_test.zip
+            dist/words.tsv
+            dist/build-info.json
+            dist/gboard_sources.zip
+            dist/LICENSE

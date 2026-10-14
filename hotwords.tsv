@@ -1,0 +1,336 @@
+# 本项目维护的补充词条；格式：词语<Tab>分音节全拼<Tab>分类。
+# 前 30 条同时用于测试包。新增词需核对读音；不要写简拼或私密信息。
+提示词注入	ti shi ci zhu ru	科技数码
+多模态模型	duo mo tai mo xing	科技数码
+检索增强	jian suo zeng qiang	科技数码
+检索增强生成	jian suo zeng qiang sheng cheng	科技数码
+向量数据库	xiang liang shu ju ku	科技数码
+模型幻觉	mo xing huan jue	科技数码
+上下文窗口	shang xia wen chuang kou	科技数码
+推理额度	tui li e du	科技数码
+算力焦虑	suan li jiao lv	科技数码
+显存不足	xian cun bu zu	科技数码
+显存溢出	xian cun yi chu	科技数码
+量化模型	liang hua mo xing	科技数码
+本地推理	ben di tui li	科技数码
+云端推理	yun duan tui li	科技数码
+模型微调	mo xing wei tiao	科技数码
+低秩适配	di zhi shi pei	科技数码
+工具调用	gong ju diao yong	科技数码
+函数调用	han shu diao yong	科技数码
+自动审查	zi dong shen cha	科技数码
+持续集成	chi xu ji cheng	科技数码
+版本回滚	ban ben hui gun	科技数码
+远程控制	yuan cheng kong zhi	科技数码
+分支合并	fen zhi he bing	科技数码
+容器镜像	rong qi jing xiang	科技数码
+反向代理	fan xiang dai li	科技数码
+词库更新	ci ku geng xin	科技数码
+全拼输入	quan pin shu ru	科技数码
+简拼输入	jian pin shu ru	科技数码
+赛博打工人	sai bo da gong ren	网络与游戏
+电子榨菜	dian zi zha cai	网络与游戏
+提示词	ti shi ci	科技数码
+智能体	zhi neng ti	科技数码
+大语言模型	da yu yan mo xing	科技数码
+生成式模型	sheng cheng shi mo xing	科技数码
+思维链	si wei lian	科技数码
+推理模型	tui li mo xing	科技数码
+多模态	duo mo tai	科技数码
+向量检索	xiang liang jian suo	科技数码
+语义检索	yu yi jian suo	科技数码
+知识库	zhi shi ku	科技数码
+知识图谱	zhi shi tu pu	科技数码
+模型权重	mo xing quan zhong	科技数码
+模型蒸馏	mo xing zheng liu	科技数码
+混合专家	hun he zhuan jia	科技数码
+上下文压缩	shang xia wen ya suo	科技数码
+上下文长度	shang xia wen chang du	科技数码
+缓存命中	huan cun ming zhong	科技数码
+首字延迟	shou zi yan chi	科技数码
+分词器	fen ci qi	科技数码
+嵌入模型	qian ru mo xing	科技数码
+注意力机制	zhu yi li ji zhi	科技数码
+神经网络	shen jing wang luo	科技数码
+监督学习	jian du xue xi	科技数码
+强化学习	qiang hua xue xi	科技数码
+机器学习	ji qi xue xi	科技数码
+深度学习	shen du xue xi	科技数码
+人工智能	ren gong zhi neng	科技数码
+开源模型	kai yuan mo xing	科技数码
+开源社区	kai yuan she qu	科技数码
+代码审查	dai ma shen cha	科技数码
+代码补全	dai ma bu quan	科技数码
+代码仓库	dai ma cang ku	科技数码
+拉取请求	la qu qing qiu	科技数码
+合并冲突	he bing chong tu	科技数码
+工作流	gong zuo liu	科技数码
+自动部署	zi dong bu shu	科技数码
+持续部署	chi xu bu shu	科技数码
+单元测试	dan yuan ce shi	科技数码
+集成测试	ji cheng ce shi	科技数码
+回归测试	hui gui ce shi	科技数码
+命令行	ming ling hang	科技数码
+终端模拟器	zhong duan mo ni qi	科技数码
+虚拟环境	xu ni huan jing	科技数码
+虚拟机	xu ni ji	科技数码
+容器化	rong qi hua	科技数码
+配置文件	pei zhi wen jian	科技数码
+环境变量	huan jing bian liang	科技数码
+依赖管理	yi lai guan li	科技数码
+包管理器	bao guan li qi	科技数码
+版本控制	ban ben kong zhi	科技数码
+远程连接	yuan cheng lian jie	科技数码
+远程桌面	yuan cheng zhuo mian	科技数码
+端口转发	duan kou zhuan fa	科技数码
+端口监听	duan kou jian ting	科技数码
+负载均衡	fu zai jun heng	科技数码
+代理服务器	dai li fu wu qi	科技数码
+域名解析	yu ming jie xi	科技数码
+内网穿透	nei wang chuan tou	科技数码
+网络延迟	wang luo yan chi	科技数码
+网络测速	wang luo ce su	科技数码
+系统日志	xi tong ri zhi	科技数码
+磁盘清理	ci pan qing li	科技数码
+内存占用	nei cun zhan yong	科技数码
+固态硬盘	gu tai ying pan	科技数码
+显卡驱动	xian ka qu dong	科技数码
+屏幕刷新率	ping mu shua xin lv	科技数码
+光线追踪	guang xian zhui zong	科技数码
+帧率生成	zhen lv sheng cheng	科技数码
+超级分辨率	chao ji fen bian lv	科技数码
+局部重绘	ju bu chong hui	科技数码
+图生视频	tu sheng shi pin	科技数码
+文生视频	wen sheng shi pin	科技数码
+文生图	wen sheng tu	科技数码
+图生图	tu sheng tu	科技数码
+雾凇拼音	wu song pin yin	科技数码
+万象拼音	wan xiang pin yin	科技数码
+个人字典	ge ren zi dian	科技数码
+候选词	hou xuan ci	科技数码
+拼音纠错	pin yin jiu cuo	科技数码
+模糊音	mo hu yin	科技数码
+赛博朋克	sai bo peng ke	网络与游戏
+二次元	er ci yuan	网络与游戏
+电子竞技	dian zi jing ji	网络与游戏
+弹幕文化	dan mu wen hua	网络与游戏
+表情包	biao qing bao	网络与游戏
+评论区	ping lun qu	网络与游戏
+情绪价值	qing xu jia zhi	现代生活
+松弛感	song chi gan	现代生活
+氛围感	fen wei gan	现代生活
+仪式感	yi shi gan	现代生活
+边界感	bian jie gan	现代生活
+获得感	huo de gan	现代生活
+幸福感	xing fu gan	现代生活
+安全感	an quan gan	现代生活
+钝感力	dun gan li	现代生活
+内耗感	nei hao gan	现代生活
+精神内耗	jing shen nei hao	现代生活
+情绪内耗	qing xu nei hao	现代生活
+自我接纳	zi wo jie na	现代生活
+数字游民	shu zi you min	现代生活
+远程办公	yuan cheng ban gong	现代生活
+居家办公	ju jia ban gong	现代生活
+弹性工作	tan xing gong zuo	现代生活
+职场边界	zhi chang bian jie	现代生活
+副业收入	fu ye shou ru	现代生活
+消费降级	xiao fei jiang ji	现代生活
+理性消费	li xing xiao fei	现代生活
+断舍离	duan she li	现代生活
+极简主义	ji jian zhu yi	现代生活
+沉浸式	chen jin shi	文娱与表达
+沉浸体验	chen jin ti yan	文娱与表达
+开放世界	kai fang shi jie	网络与游戏
+独立游戏	du li you xi	网络与游戏
+肉鸽游戏	rou ge you xi	网络与游戏
+动作角色扮演	dong zuo jue se ban yan	网络与游戏
+回合制	hui he zhi	网络与游戏
+抽卡游戏	chou ka you xi	网络与游戏
+卡池更新	ka chi geng xin	网络与游戏
+版本前瞻	ban ben qian zhan	网络与游戏
+角色养成	jue se yang cheng	网络与游戏
+配队攻略	pei dui gong lve	网络与游戏
+伤害倍率	shang hai bei lv	网络与游戏
+毕业词条	bi ye ci tiao	网络与游戏
+强度焦虑	qiang du jiao lv	网络与游戏
+明日方舟	ming ri fang zhou	网络与游戏
+星穹铁道	xing qiong tie dao	网络与游戏
+绝区零	jue qu ling	网络与游戏
+黑神话悟空	hei shen hua wu kong	网络与游戏
+宝可梦	bao ke meng	网络与游戏
+塞尔达传说	sai er da chuan shuo	网络与游戏
+任天堂	ren tian tang	网络与游戏
+掌机模式	zhang ji mo shi	网络与游戏
+主机游戏	zhu ji you xi	网络与游戏
+同人创作	tong ren chuang zuo	文娱与表达
+角色设定	jue se she ding	文娱与表达
+世界观设定	shi jie guan she ding	文娱与表达
+半写实	ban xie shi	文娱与表达
+厚涂风格	hou tu feng ge	文娱与表达
+像素风	xiang su feng	文娱与表达
+电影感	dian ying gan	文娱与表达
+镜头语言	jing tou yu yan	文娱与表达
+光影氛围	guang ying fen wei	文娱与表达
+选择性细节	xuan ze xing xi jie	文娱与表达
+油画质感	you hua zhi gan	文娱与表达
+胶片颗粒	jiao pian ke li	文娱与表达
+印象派	yin xiang pai	文娱与表达
+新中式	xin zhong shi	文娱与表达
+多巴胺穿搭	duo ba an chuan da	现代生活
+美拉德穿搭	mei la de chuan da	现代生活
+城市漫步	cheng shi man bu	现代生活
+特种兵旅行	te zhong bing lv xing	现代生活
+搭子文化	da zi wen hua	现代生活
+旅游搭子	lv you da zi	现代生活
+健身搭子	jian shen da zi	现代生活
+人间清醒	ren jian qing xing	网络与游戏
+情绪稳定	qing xu wen ding	现代生活
+抽象文化	chou xiang wen hua	网络与游戏
+赛博养生	sai bo yang sheng	网络与游戏
+电子宠物	dian zi chong wu	网络与游戏
+电子布洛芬	dian zi bu luo fen	网络与游戏
+精神股东	jing shen gu dong	网络与游戏
+精神状态	jing shen zhuang tai	现代生活
+显眼包	xian yan bao	网络与游戏
+互联网嘴替	hu lian wang zui ti	网络与游戏
+事半功倍	shi ban gong bei	成语短语
+事倍功半	shi bei gong ban	成语短语
+触类旁通	chu lei pang tong	成语短语
+举一反三	ju yi fan san	成语短语
+融会贯通	rong hui guan tong	成语短语
+循序渐进	xun xu jian jin	成语短语
+厚积薄发	hou ji bo fa	成语短语
+水到渠成	shui dao qu cheng	成语短语
+顺其自然	shun qi zi ran	成语短语
+顺势而为	shun shi er wei	成语短语
+量力而行	liang li er xing	成语短语
+适可而止	shi ke er zhi	成语短语
+得不偿失	de bu chang shi	成语短语
+因小失大	yin xiao shi da	成语短语
+本末倒置	ben mo dao zhi	成语短语
+舍本逐末	she ben zhu mo	成语短语
+过犹不及	guo you bu ji	成语短语
+恰如其分	qia ru qi fen	成语短语
+一针见血	yi zhen jian xie	成语短语
+言简意赅	yan jian yi gai	成语短语
+开门见山	kai men jian shan	成语短语
+直截了当	zhi jie liao dang	成语短语
+切中要害	qie zhong yao hai	成语短语
+实事求是	shi shi qiu shi	成语短语
+就事论事	jiu shi lun shi	成语短语
+具体问题	ju ti wen ti	成语短语
+对症下药	dui zheng xia yao	成语短语
+因地制宜	yin di zhi yi	成语短语
+因材施教	yin cai shi jiao	成语短语
+扬长避短	yang chang bi duan	成语短语
+取长补短	qu chang bu duan	成语短语
+各有所长	ge you suo chang	成语短语
+殊途同归	shu tu tong gui	成语短语
+异曲同工	yi qu tong gong	成语短语
+相辅相成	xiang fu xiang cheng	成语短语
+相得益彰	xiang de yi zhang	成语短语
+循循善诱	xun xun shan you	成语短语
+深入浅出	shen ru qian chu	成语短语
+豁然开朗	huo ran kai lang	成语短语
+醍醐灌顶	ti hu guan ding	成语短语
+茅塞顿开	mao se dun kai	成语短语
+恍然大悟	huang ran da wu	成语短语
+耐人寻味	nai ren xun wei	成语短语
+引人入胜	yin ren ru sheng	成语短语
+身临其境	shen lin qi jing	成语短语
+意犹未尽	yi you wei jin	成语短语
+回味无穷	hui wei wu qiong	成语短语
+不言而喻	bu yan er yu	成语短语
+不谋而合	bu mou er he	成语短语
+见微知著	jian wei zhi zhu	成语短语
+防微杜渐	fang wei du jian	成语短语
+未雨绸缪	wei yu chou mou	成语短语
+居安思危	ju an si wei	成语短语
+审时度势	shen shi duo shi	成语短语
+三思而行	san si er xing	成语短语
+谋定后动	mou ding hou dong	成语短语
+随机应变	sui ji ying bian	成语短语
+以不变应万变	yi bu bian ying wan bian	成语短语
+临机应变	lin ji ying bian	成语短语
+游刃有余	you ren you yu	成语短语
+得心应手	de xin ying shou	成语短语
+驾轻就熟	jia qing jiu shu	成语短语
+稳扎稳打	wen zha wen da	成语短语
+持之以恒	chi zhi yi heng	成语短语
+精益求精	jing yi qiu jing	成语短语
+独辟蹊径	du pi xi jing	成语短语
+别出心裁	bie chu xin cai	成语短语
+推陈出新	tui chen chu xin	成语短语
+与时俱进	yu shi ju jin	成语短语
+日新月异	ri xin yue yi	成语短语
+百花齐放	bai hua qi fang	成语短语
+兼收并蓄	jian shou bing xu	成语短语
+博采众长	bo cai zhong chang	成语短语
+集思广益	ji si guang yi	成语短语
+群策群力	qun ce qun li	成语短语
+众志成城	zhong zhi cheng cheng	成语短语
+同舟共济	tong zhou gong ji	成语短语
+雪中送炭	xue zhong song tan	成语短语
+锦上添花	jin shang tian hua	成语短语
+画龙点睛	hua long dian jing	成语短语
+点到为止	dian dao wei zhi	成语短语
+适得其反	shi de qi fan	成语短语
+弄巧成拙	nong qiao cheng zhuo	成语短语
+欲速不达	yu su bu da	成语短语
+操之过急	cao zhi guo ji	成语短语
+急于求成	ji yu qiu cheng	成语短语
+好高骛远	hao gao wu yuan	成语短语
+眼高手低	yan gao shou di	成语短语
+纸上谈兵	zhi shang tan bing	成语短语
+坐而论道	zuo er lun dao	成语短语
+脚踏实地	jiao ta shi di	成语短语
+知行合一	zhi xing he yi	成语短语
+学以致用	xue yi zhi yong	成语短语
+温故知新	wen gu zhi xin	成语短语
+一叶知秋	yi ye zhi qiu	成语短语
+管中窥豹	guan zhong kui bao	成语短语
+以偏概全	yi pian gai quan	成语短语
+断章取义	duan zhang qu yi	成语短语
+混淆视听	hun xiao shi ting	成语短语
+偷换概念	tou huan gai nian	成语短语
+避重就轻	bi zhong jiu qing	成语短语
+顾此失彼	gu ci shi bi	成语短语
+捉襟见肘	zhuo jin jian zhou	成语短语
+捉摸不定	zhuo mo bu ding	成语短语
+扑朔迷离	pu shuo mi li	成语短语
+千头万绪	qian tou wan xu	成语短语
+条分缕析	tiao fen lv xi	成语短语
+抽丝剥茧	chou si bo jian	成语短语
+顺藤摸瓜	shun teng mo gua	成语短语
+追本溯源	zhui ben su yuan	成语短语
+正本清源	zheng ben qing yuan	成语短语
+标本兼治	biao ben jian zhi	成语短语
+一劳永逸	yi lao yong yi	成语短语
+亡羊补牢	wang yang bu lao	成语短语
+重蹈覆辙	chong dao fu zhe	成语短语
+前车之鉴	qian che zhi jian	成语短语
+引以为戒	yin yi wei jie	成语短语
+举重若轻	ju zhong ruo qing	成语短语
+轻重缓急	qing zhong huan ji	成语短语
+张弛有度	zhang chi you du	成语短语
+劳逸结合	lao yi jie he	成语短语
+从容不迫	cong rong bu po	成语短语
+不卑不亢	bu bei bu kang	成语短语
+宠辱不惊	chong ru bu jing	成语短语
+坦然自若	tan ran zi ruo	成语短语
+安之若素	an zhi ruo su	成语短语
+落落大方	luo luo da fang	成语短语
+恰到好处	qia dao hao chu	成语短语
+别具一格	bie ju yi ge	成语短语
+自成一派	zi cheng yi pai	成语短语
+栩栩如生	xu xu ru sheng	成语短语
+惟妙惟肖	wei miao wei xiao	成语短语
+妙趣横生	miao qu heng sheng	成语短语
+妙笔生花	miao bi sheng hua	成语短语
+行云流水	xing yun liu shui	成语短语
+浑然天成	hun ran tian cheng	成语短语
+匠心独运	jiang xin du yun	成语短语
+精雕细琢	jing diao xi zhuo	成语短语
+返璞归真	fan pu gui zhen	成语短语
+大道至简	da dao zhi jian	成语短语
