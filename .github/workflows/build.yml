@@ -29,15 +29,23 @@ jobs:
         run: python -m unittest -v
       - name: Build dictionaries from a pinned upstream snapshot
         run: python convert.py
+      - name: Build full Wanxiang abbreviation dictionary
+        run: python build_abbrev.py
       - name: Update latest release
         uses: softprops/action-gh-release@v2
         with:
           tag_name: latest
-          name: Gboard 最新中文补词库 (自动更新)
+          name: Gboard 中文简拼与补词库 (自动更新)
           body_path: dist/release-notes.md
           overwrite_files: true
           fail_on_unmatched_files: true
           files: |
+            dist/gboard_abbrev.zip
+            dist/gboard_abbrev_test.zip
+            dist/abbrev-words.tsv
+            dist/abbrev-build-info.json
+            dist/gboard_abbrev_sources.zip
+            dist/WANXIANG-LICENSE
             dist/gboard_hotwords.zip
             dist/gboard_hotwords_test.zip
             dist/words.tsv
